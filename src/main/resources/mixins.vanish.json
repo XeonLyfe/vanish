@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.fobba.vanish.mixin.client",
+  "refmap": "mixins.vanish.refmap.json",
+  "client": [
+    "MixinAbstractClientPlayer"
+ ]
+}
