@@ -9,11 +9,7 @@ import org.apache.logging.log4j.Logger;
 import org.lwjgl.opengl.Display;
 
 
-/**
- * Created by 086 on 7/11/2017.
- * Updated by S-B99 on 25/03/19
- * Updated by Dewy on 09/04/2020
- */
+
 @Mod(
         modid = Vanish.MODID,
         name = Vanish.MODNAME,
